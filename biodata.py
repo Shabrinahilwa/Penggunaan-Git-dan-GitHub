@@ -1,4 +1,4 @@
-print ("Hallo Guyss!!!") 
+print ("Hallo Guyss!!!")
 print ("Nama : Shabrina Hilwa")
 print ("NIM : 25071206575")
 print ("Prodi : Teknik Informatika")
